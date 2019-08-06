@@ -26,8 +26,6 @@ void ShellSort(int* arr,int len){
 
 int main()
 {
-    cout << "Hello World!" << endl;
-
     int kk[]={19,29,30,1,20,0,2,5,87,6};
 
     int len=10;
